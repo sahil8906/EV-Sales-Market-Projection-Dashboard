@@ -71,7 +71,7 @@ Performance-focused DAX measures
 
 📊 Dashboard Preview
 
-Link- 
+Link- https://github.com/sahil8906/EV-Sales-Market-Projection-Dashboard/blob/main/EV.png
 
 
 🚀 How to Use
